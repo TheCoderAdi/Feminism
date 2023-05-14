@@ -1,9 +1,9 @@
 # Feminism
-#Introduction:
+# Introduction:
 
 This is a website dedicated to feminism, designed to educate people about feminism, and provide information about its various aspects, current issues, and future prospects. The purpose of this website is to create awareness about feminism and encourage people to join the movement for gender equality.
 
-##Features:
+## Features:
 
 The website contains the following features:
 
@@ -22,7 +22,7 @@ This page highlights the various forms of activism associated with feminism, inc
 Contact us:
 This page provides a form that people can use to contact the creators of the website with any questions or feedback.
 
-##Technologies used:
+## Technologies used:
 
 The website was built using the following technologies:
 
@@ -44,13 +44,13 @@ Contributing:
 
 We welcome contributions from anyone who is interested in improving the website. If you would like to contribute, please get in touch with us using the contact form on the website.
 
-##Credits:
+## Credits:
 
 This website was created by Aditya SwayamSiddha. The content and images used in the website were sourced from various online resources and are used under fair use principles.
 
-##License:
+## License:
 
 This website is licensed under the MIT License. You are free to use, copy, modify, and distribute the website, with or without attribution, for any purpose.
 
-#Insipred by
+# Insipred by
 IG - https://www.instagram.com/femprish/
